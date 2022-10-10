@@ -35,6 +35,8 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
+remote_theme: daviddarnes/alembic@main
+
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
