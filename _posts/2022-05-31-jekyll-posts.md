@@ -1,5 +1,5 @@
 ---
-title: "jekyll - Posts"
+title: "jekyll: Posts"
 categories:
 - jekyll
 ---
