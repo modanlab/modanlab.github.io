@@ -6,7 +6,7 @@ categories:
 
 # 팩토리 메서드 패턴
 
-![](../assets/스크린샷 2022-06-02 오후 7.32.28.png)
+{% include figure.html image="../assets/스크린샷 2022-06-02 오후 7.32.28.png" caption="팩토리 메서드 패턴" width="300" height="800" %}
 
 ```java
 public abstract class Room {
