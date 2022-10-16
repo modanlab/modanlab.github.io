@@ -55,7 +55,7 @@ assets 폴더 안에 이미지, 파일 등을 추가하고 불러오면 됨
 
 ## 블로그 포스트 링크 목록 만드는 방법
 
-```
+```liquid
 <ul>
   {% for post in site.posts %}
     <li>
@@ -83,7 +83,7 @@ tags: classic hollywood
 ```
 의 경우 tags 복수이기 때문에 ["classic", "hollywood"]로 태그가 지정된다.
 
-```
+```liquid
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
