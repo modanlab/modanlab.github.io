@@ -6,7 +6,7 @@ categories:
 
 # 팩토리 메서드 패턴
 
-![팩토리 메서드 패턴](../assets/스크린샷 2022-06-02 오후 7.32.28.png)
+![](../assets/images/스크린샷 2022-06-02 오후 7.32.28.png)
 
 ```java
 public abstract class Room {
