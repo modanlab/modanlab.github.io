@@ -50,3 +50,7 @@ class _RandomWordsState extends State<RandomWords> {
 ## build
 
 - [docs: build](https://api.flutter.dev/flutter/widgets/SliverPersistentHeaderDelegate/build.html)
+
+## ListView 구현
+
+{% include figure.html image="https://github.com/modanlab/modanlab.github.io/blob/main/assets/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-10-19%20%EC%98%A4%EC%A0%84%203.58.31.png?raw=true" alt="Flutter ListView" %}
