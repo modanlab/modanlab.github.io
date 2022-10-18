@@ -6,7 +6,7 @@ categories:
 
 # 팩토리 메서드 패턴
 
-![](../assets/images/스크린샷 2022-06-02 오후 7.32.28.png)
+{% include figure.html image="https://github.com/modanlab/modanlab.github.io/blob/main/assets/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-06-02%20%EC%98%A4%ED%9B%84%207.32.28.png?raw=true?image=894" alt="팩토리 메서드 패턴" %}
 
 ```java
 public abstract class Room {
